@@ -1,1 +1,2 @@
 type /tmp/iamafile
+#!/bin/bash
